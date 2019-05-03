@@ -13,6 +13,9 @@ This is the problem
 This is the solution
 
 
+{% comment %} 
+    These commments will not include inside the source.
+    ![_config.yml]({{ site.baseurl }}/images/config.png)
+{% endcomment %}
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
