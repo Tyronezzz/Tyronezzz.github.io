@@ -6,10 +6,18 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Technical Outline
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+Activities
+
+MVC
+
+
+### Team
+
+This app was made by Tao Hou and Ningxiang He.
+
 
 [email@domain.com](mailto:email@domain.com)
