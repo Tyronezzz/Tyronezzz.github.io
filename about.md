@@ -16,7 +16,7 @@ permalink: /about/
 
 ....
 
-## Team
+# Team
 
 This app was made by Tao Hou and Ningxiang He.
 
