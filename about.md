@@ -1,21 +1,26 @@
 ---
 layout: page
-title: About
+title: Technical Outline
 permalink: /about/
 ---
 
-Some information about you!
 
-### Technical Outline
+## Technical Outline
 
 A place to include any other types of information that you'd like to include about yourself.
 
-Activities
+### Activities
+...
 
-MVC
+### MVC Design
 
+....
 
-### Team
+### Thread Design
+
+....
+
+## Team
 
 This app was made by Tao Hou and Ningxiang He.
 
