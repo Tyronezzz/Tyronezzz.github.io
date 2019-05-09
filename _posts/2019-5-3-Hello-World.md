@@ -15,3 +15,5 @@ Sometimes it can be hard to find someone who has the same interest as you. For e
 {% endcomment %}
 
 
+### Sildes
+[Pitche](https://docs.google.com/presentation/d/1OJXDXBcEJV6Fwwt9nkivs6aDsr6cf5nm0kq3pvHl1XI/edit?usp=sharing)
