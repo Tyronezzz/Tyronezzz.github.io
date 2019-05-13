@@ -23,8 +23,7 @@ In this app, it contains some key modules like sign up/sign in, post and view. A
 ### Sildes
 [Pitch](https://docs.google.com/presentation/d/1m-BV7MLQQiJ-D1ipn2FkU2smJIBMk0f5NZbrfOmuCXw/edit?usp=sharing)
 
-
-
+[Show and Tell 1](https://docs.google.com/presentation/d/15XSNsj0zvIUlCX12h-CIX8xWm97hxTAbVn0a6G87Vqs/edit?usp=sharing)
 
 
 # Team
