@@ -25,6 +25,8 @@ In this app, it contains some key modules like sign up/sign in, post and view. A
 
 [Show and Tell 1](https://docs.google.com/presentation/d/15XSNsj0zvIUlCX12h-CIX8xWm97hxTAbVn0a6G87Vqs/edit?usp=sharing)
 
+[Show and Tell 2](https://docs.google.com/presentation/d/1X03eZBuD4vFMFBPspa3AV6ELjgBfxCu1-9s9k5BG0P0/edit?usp=sharing)
+
 
 # Team
 
