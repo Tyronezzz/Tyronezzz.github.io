@@ -14,6 +14,6 @@ permalink: /about/
 
 ### Thread Design
 
-....
+![_thread.yml]({{ site.baseurl }}/images/thread design.png)
 
 
