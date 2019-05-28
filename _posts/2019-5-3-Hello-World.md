@@ -31,6 +31,10 @@ In this app, it contains some key modules like sign up/sign in, post and view. A
 [Demo presentation](https://docs.google.com/presentation/d/13EDkYUjyeTDODEH2slioHntwbd_A_YCne6KT0TSg34M/edit?usp=sharing)
 
 
+### Repo
+
+[Repo here](https://gitlab.cs.dartmouth.edu/Tyzzz/joinme)
+
 
 # APK
 
