@@ -5,12 +5,9 @@ permalink: /about/
 ---
 
 
-### Activities
-...
-
 ### MVC Design
 
-....
+![_mvc.yml]({{ site.baseurl }}/images/MVC.png)
 
 ### Thread Design
 
