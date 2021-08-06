@@ -17,7 +17,8 @@
 [四川大学 管理类联考非全日制专业全解析！招生人数多，上岸率高！](https://zhuanlan.zhihu.com/p/391305973)
 
 
-<font color=red>NEW! </font>[四川大学MBA，MEM，MPA，MPAcc联考备考难度分析](https://zhuanlan.zhihu.com/p/105677607)
+
+[![](https://img.shields.io/badge/-NEW-red.svg)]({})[四川大学MBA，MEM，MPA，MPAcc联考备考难度分析](https://zhuanlan.zhihu.com/p/105677607)
 
 
 
@@ -38,7 +39,7 @@
 [公共管理学院 2020级公共管理（Public Administration）研究生培养方案](https://ggglxy.scu.edu.cn/info/1102/2869.htm)
 
 
-<font color=red>NEW! </font>[四川大学商学院MBA项目2021年招生简章](http://mba.scu.edu.cn/article/detail/id/7263.html)
+[![](https://img.shields.io/badge/-NEW-red.svg)]({})[四川大学商学院MBA项目2021年招生简章](http://mba.scu.edu.cn/article/detail/id/7263.html)
 
 
 
@@ -94,7 +95,7 @@
 
 &nbsp;
 &nbsp;
-## <font color=red>NEW! </font> 我的一些想法
+## [![](https://img.shields.io/badge/-NEW-red.svg)]({})我的一些想法
 
 - mba mpa 区别  mba 商界管理岗？
     - MBA下设六个专业方向：市场营销、人力资源管理、金融投资与财务管理、新创业务管理、运作管理、医院管理
@@ -118,7 +119,7 @@ ps: 我加了几个群，看看情况
 
 &nbsp;
 &nbsp;
-## <font color=red>NEW! </font> 复习
+## [![](https://img.shields.io/badge/-NEW-red.svg)]({}) 复习
 
 ### 英语
 - 真题 测试
@@ -130,6 +131,7 @@ ps: 我加了几个群，看看情况
 - 作文
 
 - 方法，时间顺序 [考研英语二试卷时间怎么分配](https://www.zhihu.com/question/51006347/answer/1162516361)
+
 ```
 1大小作文50分钟（大作文30分钟，小作文20分钟）
 
