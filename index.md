@@ -6,7 +6,7 @@
 ## 小道消息
 
 
-[非全研究生|四川大学管理类非全日制研究生专业全解析](https://zhuanlan.zhihu.com/p/124234771)
+[非全研究生 四川大学管理类非全日制研究生专业全解析](https://zhuanlan.zhihu.com/p/124234771)
 
 
 
@@ -14,10 +14,10 @@
 
 
 
-[四川大学|管理类联考非全日制专业全解析！招生人数多，上岸率高！](https://zhuanlan.zhihu.com/p/391305973)
+[四川大学 管理类联考非全日制专业全解析！招生人数多，上岸率高！](https://zhuanlan.zhihu.com/p/391305973)
 
 
-<font color=red>NEW! </font> [四川大学MBA，MEM，MPA，MPAcc联考备考难度分析](https://zhuanlan.zhihu.com/p/105677607)
+<font color=red>NEW! </font>[四川大学MBA，MEM，MPA，MPAcc联考备考难度分析](https://zhuanlan.zhihu.com/p/105677607)
 
 
 
@@ -38,7 +38,7 @@
 [公共管理学院 2020级公共管理（Public Administration）研究生培养方案](https://ggglxy.scu.edu.cn/info/1102/2869.htm)
 
 
-<font color=red>NEW! </font> [四川大学商学院MBA项目2021年招生简章](http://mba.scu.edu.cn/article/detail/id/7263.html)
+<font color=red>NEW! </font>[四川大学商学院MBA项目2021年招生简章](http://mba.scu.edu.cn/article/detail/id/7263.html)
 
 
 
